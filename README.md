@@ -1,4 +1,4 @@
-# I-11
+# I-11 : Getting started with AI
 
 Problem 3.3: After cleaning and processing the data in VS Code as you did in Google Colab, compare and contrast the experience of using VS Code with Google Colab for this workflow. Discuss the advantages and disadvantages of using VS Code for data analysis tasks, including but not limited to:
 Ease of use and setup for data loading and manipulation
